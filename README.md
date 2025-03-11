@@ -2,6 +2,10 @@
 
 A starter template for building your own Model Context Protocol (MCP) server. This template provides the basic structure and setup needed to create custom MCPs that can be used with Cursor or Claude Desktop.
 
+<a href="https://glama.ai/mcp/servers/vnt96edg3a">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/vnt96edg3a/badge" alt="Server Template MCP server" />
+</a>
+
 ## Features
 
 - Basic MCP server setup with TypeScript
