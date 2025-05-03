@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jatinsandilya-mcp-server-template-badge.png)](https://mseep.ai/app/jatinsandilya-mcp-server-template)
+
 # MCP Server Template 🛠️
 
 A starter template for building your own Model Context Protocol (MCP) server. This template provides the basic structure and setup needed to create custom MCPs that can be used with Cursor or Claude Desktop.
